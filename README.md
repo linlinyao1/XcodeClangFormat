@@ -1,6 +1,6 @@
 # XcodeClangFormat
 
-### [⚙ Download Latest Release](https://github.com/mapbox/XcodeClangFormat/releases/latest)
+**This is a fork of https://github.com/mapbox/XcodeClangFormat which uses LLVM 8.0.0**.
 
 This plugin written for Xcode 8's new plugin infrastructure uses Clang's `libclangFormat` library to format code according to a `.clang-format` file.
 
